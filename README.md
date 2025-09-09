@@ -15,7 +15,7 @@ Minha curiosidade natural me levou a iniciar minha jornada em **T.I**, com o obj
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java, Python, C# (em aprendizado)  
-- **Ferramentas:** Git & GitHub, VS Code 
+- **Ferramentas:** Git & GitHub e VS Code 
 - **Área de foco:** Engenharia de Software
 
 ---
